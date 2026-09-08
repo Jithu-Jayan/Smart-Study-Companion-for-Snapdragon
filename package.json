@@ -2,7 +2,7 @@
   "name": "smart-study-companion-for-snapdragon",
   "version": "1.0.0",
   "description": "HI GUYS!",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
